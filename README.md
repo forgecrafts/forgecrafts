@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=2&section=header&text=Danylo%20Bilous&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full%20Stack%20%26%20Mobile%20Engineer%20%C2%B7%20System%20Architecture%20%C2%B7%20Technical%20Leadership&descSize=15&descAlignY=57"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&section=header&text=Senior%20Full%20Stack%20%26%20Mobile%20Engineer&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=7%2B%20Years%20%7C%20React%20%7C%20Node.js%20%7C%20React%20Native%20%7C%20AWS&descSize=16&descAlignY=52"/>
 
-<a href="https://forgecrafts.netlify.app/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=750&height=45&lines=Building+production+systems+for+1M%2B+users;Backend+%C2%B7+Mobile+(iOS+%26+Android)+%C2%B7+Full+Stack+Web;Shipping+SaaS+%7C+CRMs+%7C+Mobile+Apps+%7C+APIs;Open+to+remote+opportunities+worldwide" alt="Typing SVG" />
+<a href="#-professional-experience">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Building+Production+Systems+for+1M%2B+Users;Shipping+Mobile+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Optimizing+Performance+%26+Reducing+Costs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -197,6 +197,6 @@ A rare engineer who brings genuine depth across all three layers: **backend syst
 
 ![Visitors](https://komarev.com/ghpvc/?username=forgecrafts&color=1D4ED8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12&section=footer"/>
 
 </div>
