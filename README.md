@@ -133,7 +133,7 @@ University of Calgary, Canada
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codegenerator1994@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://drive.google.com/file/d/1__3EW6hA_G8dKwP31-rYCyP9jM9l-h28/view)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://forgecrafts.netlify.app/)
 
 <br/><br/>
 
