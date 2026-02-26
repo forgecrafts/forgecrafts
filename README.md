@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1D4ED8,50:7C3AED,100:A855F7&section=header&text=Danylo%20Bilous&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20%26%20Mobile%20Engineer%20%E2%80%A2%20System%20Architecture%20%E2%80%A2%20Technical%20Leadership&descSize=16&descAlignY=58&descColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:1D4ED8,50:7C3AED,100:A855F7&amp;section=header&amp;text=Danylo%20Bilous&amp;fontSize=52&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Full%20Stack%20%26%20Mobile%20Engineer%20%7C%20System%20Architecture%20%7C%20Technical%20Leadership&amp;descSize=15&amp;descAlignY=58&amp;descColor=fff"/>
 
 <a href="#-professional-experience">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Building+Production+Systems+for+1M%2B+Users;Shipping+Mobile+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Optimizing+Performance+%26+Reducing+Costs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=Building+Production+Systems+for+1M%2B+Users;Shipping+Mobile+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Optimizing+Performance+%26+Reducing+Costs" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -197,6 +197,6 @@ A rare engineer who brings genuine depth across all three layers: **backend syst
 
 ![Visitors](https://komarev.com/ghpvc/?username=forgecrafts&color=1D4ED8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D4ED8,50:7C3AED,100:A855F7&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:1D4ED8,50:7C3AED,100:A855F7&amp;section=footer"/>
 
 </div>
