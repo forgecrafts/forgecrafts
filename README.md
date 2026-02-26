@@ -1,16 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:1D4ED8,50:7C3AED,100:A855F7&amp;section=header&amp;text=Danylo%20Bilous&amp;fontSize=52&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior%20Full%20Stack%20%26%20Mobile%20Engineer%20%7C%20System%20Architecture%20%7C%20Technical%20Leadership&amp;descSize=15&amp;descAlignY=58&amp;descColor=fff"/>
+<h1>👋 Hi, I'm Danylo Bilous</h1>
 
-<a href="#-professional-experience">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=40&amp;lines=Building+Production+Systems+for+1M%2B+Users;Shipping+Mobile+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Optimizing+Performance+%26+Reducing+Costs" alt="Typing SVG" />
-</a>
+<h3>🚀 Senior Full Stack & Mobile Engineer &nbsp;·&nbsp; System Architecture &nbsp;·&nbsp; Technical Leadership</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/7%2B%20Years%20Experience-1D4ED8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/1M%2B%20Users%20Served-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-16A34A?style=for-the-badge" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS%20%7C%20Django-0F172A?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20iOS%20%26%20Android-0F172A?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js%20%7C%20TypeScript-0F172A?style=flat-square" />
+</p>
 
 <br/>
 
+<a href="https://readme-typing-svg.herokuapp.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=45&lines=Building+Production+Systems+for+1M%2B+Users;Shipping+React+Native+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Architecting+Scalable+SaaS+%26+APIs" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
 [![Email](https://img.shields.io/badge/codegenerator1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codegenerator1994@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white)](https://forgecrafts.netlify.app/)
-[![Location](https://img.shields.io/badge/Canada-Open%20to%20Remote-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/📍%20Canada-Open%20to%20Remote%20Worldwide-0F172A?style=for-the-badge)](https://forgecrafts.netlify.app/)
 
 </div>
 
@@ -188,6 +206,8 @@ A rare engineer who brings genuine depth across all three layers: **backend syst
 
 ---
 
+---
+
 <div align="center">
 
 ### 🤝 Open to remote opportunities worldwide
@@ -195,8 +215,12 @@ A rare engineer who brings genuine depth across all three layers: **backend syst
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white)](https://forgecrafts.netlify.app/)
 [![Email](https://img.shields.io/badge/Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codegenerator1994@gmail.com)
 
-![Visitors](https://komarev.com/ghpvc/?username=forgecrafts&color=1D4ED8&style=for-the-badge&label=PROFILE+VIEWS)
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;color=0:1D4ED8,50:7C3AED,100:A855F7&amp;section=footer"/>
+![Visitors](https://komarev.com/ghpvc/?username=forgecrafts&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<i>⚡ Built systems at scale · 📱 Shipped to App Store & Play Store · 🌍 Remote-native engineer</i>
 
 </div>
