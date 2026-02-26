@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&section=header&text=Senior%20Full%20Stack%20%26%20Mobile%20Engineer&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=7%2B%20Years%20%7C%20React%20%7C%20Node.js%20%7C%20React%20Native%20%7C%20AWS&descSize=16&descAlignY=52"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12&section=header&text=Senior%20Full%20Stack%20Engineer&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=7%2B%20Years%20%7C%20React%20%7C%20Node.js%20%7C%20Django%20%7C%20AWS&descSize=16&descAlignY=52"/>
 
 <a href="#-professional-experience">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=40&lines=Building+Production+Systems+for+1M%2B+Users;Shipping+Mobile+Apps+to+iOS+%26+Android;Leading+Engineering+Teams+to+Success;Optimizing+Performance+%26+Reducing+Costs" alt="Typing SVG" />
