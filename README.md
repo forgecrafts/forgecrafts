@@ -28,7 +28,6 @@
 
 [![Email](https://img.shields.io/badge/codegenerator1994@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codegenerator1994@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=netlify&logoColor=white)](https://forgecrafts.netlify.app/)
-[![Location](https://img.shields.io/badge/📍%20Canada-Open%20to%20Remote%20Worldwide-0F172A?style=for-the-badge)](https://forgecrafts.netlify.app/)
 
 </div>
 
