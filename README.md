@@ -202,7 +202,7 @@ A rare engineer who brings genuine depth across all three layers: **backend syst
 
 ## 🎓 Education
 
-🎓 **Bachelor of Science, Computer Science** — University of Calgary, Canada
+🎓 **Bachelor of Science, Computer Science** — National University of Singapore
 
 ---
 
