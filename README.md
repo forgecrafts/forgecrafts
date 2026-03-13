@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Liam Thompson</h1>
+<h1>👋 Hi, I'm Ramiro Bucio</h1>
 
 <h3>🚀 Senior Full Stack & Mobile Engineer &nbsp;·&nbsp; System Architecture &nbsp;·&nbsp; Technical Leadership</h3>
 
